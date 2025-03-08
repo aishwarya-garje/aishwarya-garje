@@ -1,21 +1,22 @@
-# Hello!👋 This is Aishwarya Garje
+# Hi there, I'm [Aishwarya Garje]! 👋
 
-I'm a full-stack web developer passionate about creating amazing web applications and solving real-world problems. I enjoy working with a variety of technologies and frameworks to bring ideas to life.
+## 🚀 About Me
+I'm a **BCA student** passionate about **Web Development and Cybersecurity**. I love working on projects that involve **full-stack development**.
 
-## Skills
+## 💡 Skills & Technologies
+- **Programming:** Python, JavaScript
+- **Web Development:** HTML, CSS, Node.js, Express.js
+- **Cybersecurity:** Basic Security Concepts, Ethical Hacking
+- **Databases:** MySQL, MongoDB
 
-- **Frontend**: HTML, CSS, JavaScript, C++
-- **Backend**: Node.js, Express
-- **Databases**: MongoDB, MySQL
-- **Version Control**: Git
+## 📌 Projects
+- **MediCare Online Healthcare Platform** 🏥 (Web App for online healthcare consultations)
+- **Fitness Tracker Data Analytics** 🏋️‍♂️ (Analyzing fitness trends using Python & Pandas)
+- **Wanderlust Travelling Website** 🌍 (A platform for travel enthusiasts)
 
-## Projects
+## 📫 Connect with Me
+- **LinkedIn:** [www.linkedin.com/in/aishwarya-garje-ab104a27b](https://www.linkedin.com/in/aishwarya-garje-ab104a27b)
+- **GitHub:** [aishwarya-garje](https://github.com/aishwarya-garje)
+- **Email:** aishwaryagarje2604@gmail.com
 
-1. **Portfolio Website**
-   - My personal portfolio website showcasing my projects and skills.
- 
-
-## Contact Me
-
-Feel free to reach out to me if you'd like to collaborate or just chat about web development!
-You can find me on [LinkedIn](https://www.linkedin.com/in/aishwarya-garje-ab104a27b) and [Email](aishwaryagarje2604@gmail.com).
+### ⭐ Let's collaborate and build something amazing together! 🚀
