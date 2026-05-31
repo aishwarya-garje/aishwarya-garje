@@ -1,18 +1,36 @@
-# Hi there, I'm [Aishwarya Garje]! 👋
+# Hi there, I'm Aishwarya Garje! 👋
 
 ## 🚀 About Me
-I'm a **BCA student** passionate about **Web Development and Cybersecurity**. I love working on projects that involve **full-stack development**.
+I'm an **MCA student** passionate about **Cybersecurity and Networking**.
+I enjoy building security tools that detect and prevent real-world cyber threats.
 
-## 💡 Skills & Technologies
-- **Programming:** Python, JavaScript
-- **Web Development:** HTML, CSS, Node.js, Express.js
-- **Cybersecurity:** Basic Security Concepts, Ethical Hacking
-- **Databases:** MySQL, MongoDB
+## 🛡️ Technical Skills
+
+### Networking & Cybersecurity
+- TCP/IP, OSI Model, IP Addressing, Subnetting, Routing, Switching, DNS, DHCP
+- Cybersecurity fundamentals — CIA Triad, security policies, risk management
+- Cyber threats & attacks — Malware, Phishing, Ransomware, DDoS, MITM, SQL Injection, XSS, Brute Force, Social Engineering
+- Security controls — Administrative, Technical, and Physical
+- Authentication, Authorization, Encryption, Firewalls, IDS/IPS, Endpoint Security
+- Network security — VPNs, NAT, Proxy Servers, Secure Network Architecture
+- Windows & Linux system security — user permissions, patch management, system hardening
+
+### Linux & Kali Linux
+- Linux commands — `ls`, `cd`, `pwd`, `mkdir`, `rm`, `chmod`, `chown`, `cat`, `nano`
+- File permissions and user management in Linux
+- Hands-on with Kali Linux tools — **Nmap**, **Wireshark**, **Metasploit**
+
+### Programming & Databases
+- Python, nodejs, React, JavaScript
+- MySQL, MongoDB
 
 ## 📌 Projects
-- **MediCare Online Healthcare Platform** 🏥 (Web App for online healthcare consultations)
-- **Fitness Tracker Data Analytics** 🏋️‍♂️ (Analyzing fitness trends using Python & Pandas)
-- **Wanderlust Travelling Website** 🌍 (A platform for travel enthusiasts)
+
+- **🛡️ Threat Detection & Log Monitoring System** 
+  Real-time detection of DoS, DDoS & Brute Force attacks through log analysis and network traffic monitoring.
+
+- **🏥 MediCare Online Healthcare Platform**
+  Secure web app for online healthcare consultations.
 
 ## 📫 Connect with Me
 - **LinkedIn:** [www.linkedin.com/in/aishwarya-garje-ab104a27b](https://www.linkedin.com/in/aishwarya-garje-ab104a27b)
